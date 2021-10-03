@@ -52,7 +52,7 @@ html, body {
 }
 
 
-textarea{
+#textarea{
     height: 20vw;
     margin-bottom: 1vw;
     margin-left: 1vw;
